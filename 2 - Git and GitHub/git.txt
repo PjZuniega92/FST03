@@ -41,3 +41,13 @@ git branch [branch name]
 - Switch to a different branch
 git checkout [branch name]
 git switch [branch name]
+
+- Switch to a different branch
+git checkout [branch_name]
+git switch [branch_name]
+
+- Merging branch to the main branch
+git merge [branch_name]
+
+- Delete a branch
+ git branch -d feature
